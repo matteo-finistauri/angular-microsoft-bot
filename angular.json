@@ -23,6 +23,8 @@
               "src/assets"
             ],
             "styles": [
+              "./node_modules/botframework-webchat/botchat.css",
+              "./node_modules/botframework-webchat/botchat-fullwindow.css",
               "src/styles.css"
             ],
             "scripts": []
